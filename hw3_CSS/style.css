@@ -35,3 +35,26 @@ th, td {
 tr:last-child td {
     border-bottom: none;
 }
+input {
+    margin: 0px 15px 0px 0px;
+    padding: 0px;
+}
+.arrow {
+    margin: 0px 0px 0px 15px;
+}
+.dots1 {
+    margin: 0px 0px 3px 300px;
+    width: 18px;
+}
+.dots2 {
+    margin: 0px 0px 3px 307px;
+    width: 18px;
+}
+.dots3 {
+    margin: 0px 0px 3px 279px;
+    width: 18px;
+}
+.package {
+    width: 15px;
+    margin: 0px 10px 0px 0px;
+}
