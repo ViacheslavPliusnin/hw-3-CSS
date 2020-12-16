@@ -6,7 +6,7 @@ body {
 h2 {
     text-align: center;
     font-size: 26px;
-    font-family: "Roboto" sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: rgb(140, 140, 140);
     margin-top: 100px;
 }
@@ -101,7 +101,7 @@ form {
     height: 37px;
     background: rgb(68, 68, 68);
     padding-left: 35px;
-    font-family: "Roboto" sans-serif;
+    font-family: 'Roboto', sans-serif;
     color:rgb(140, 140, 140);
     border: none;
     outline: none;
