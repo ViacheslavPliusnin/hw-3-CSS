@@ -39,20 +39,42 @@ input {
     margin: 0px 15px 0px 0px;
     padding: 0px;
 }
-.arrow {
+.button {
     margin: 0px 0px 0px 15px;
+    width: 12px;
+    outline: none;
+    border: none;
+}
+a:link {
+    text-decoration: none;
+    color: white;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: rgb(23, 161, 250);
+}
+a:active {
+    color: rgb(23, 161, 250);
 }
 .dots1 {
     margin: 0px 0px 3px 300px;
     width: 18px;
+    outline: none;
+    border: none;
 }
 .dots2 {
     margin: 0px 0px 3px 307px;
     width: 18px;
+    outline: none;
+    border: none;
 }
 .dots3 {
     margin: 0px 0px 3px 279px;
     width: 18px;
+    outline: none;
+    border: none;
 }
 .package {
     width: 15px;
